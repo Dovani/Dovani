@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Dovani Lenares.
 - 🏡 Moro em Barra do Choça - Bahia, Brazil.
 
-- 🚀 Eu gosto das áreas de Tecnologia, Astrologia e História. 
+- 🚀 Me interesso muito pelas áreas de Tecnologia, Astrologia e História. 
 
 - 👨‍💻 Atualmente sou estudante do 4º semestre de Sistemas de Informação na UniFTC - Faculdade de Tecnologia e Ciências, localizada em Vitória da Conquista - Bahia, Brazil.
   
