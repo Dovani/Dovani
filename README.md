@@ -1,23 +1,40 @@
-- 👋 Olá, me chamo Dovani Lenares.
-- 🏡 Moro em Barra do Choça - Bahia, Brazil.
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-- 🚀 Me interesso muito pelas áreas de Tecnologia, Astrologia e História. 
+### 🚀 Sobre mim
+Sou **Dovani Lenares**, desenvolvedor de software e entusiasta por tecnologia. Atualmente, estou cursando o **7º semestre de Sistemas de Informação** na UNEX  e estagiando na Secretaria de Saúde de Vitória da Conquista, onde aplico minhas habilidades no desenvolvimento de soluções web.
 
-- 👨‍💻 Atualmente sou estudante do 4º semestre de Sistemas de Informação na UniFTC - Faculdade de Tecnologia e Ciências, localizada em Vitória da Conquista - Bahia, Brazil.
-  
+---
 
+### 🛠️ Habilidades Técnicas
+- **Linguagens de Programação**: Java, Python, JavaScript, Dart  
+- **Frameworks**: Spring Boot, Flask, Flutter  
+- **Desenvolvimento Web**: HTML, CSS, JavaScript  
+- **APIs REST**: Criação e integração com Spring Boot e Flask  
+- **Banco de Dados**: MySQL, SQLite, PostgreSQL
+- **Gestão de Projetos**: Scrum, planejamento e liderança de equipes  
+- **Ferramentas de Servidor**: Configuração e gerenciamento com NGINX  
+- **Análise de Dados**: Ferramentas e estatísticas para insights práticos  
 
-- 👋 Hi, my name is Dovani Lenares.
-- 🏡 I live in Barra do Choça - Bahia, Brazil.
+---
 
-- 🚀 I like the areas of Technology, Astrology and History. 
+### 🌟 Projetos em Destaque
+1. **Sistema de Assistência Social**  
+   > Ferramenta para acompanhamento de famílias, unidades e evolução de casos sociais, com dashboards e relatórios dinâmicos.
 
-- 👨‍💻 At the moment, i'm studient of the 4º period of Systems of Information, in university UniFTC - Faculty of Tecnology and Sciences, 
-  localized in the city of Vitória da Conquista - Bahia, Brazil.
-  
+2. **Portais de Compartilhamento de Dados com Credenciamento**  
+   > Um portal completo para o compartilhamento seguro de dados entre organizações. O sistema permite o credenciamento de usuários, gerenciamento de permissões e auditoria de acessos, garantindo conformidade com normas de proteção de dados.
 
+3. **Wintips**  
+   > Plataforma de análise de dados e estatísticas de futebol para apostas esportivas.
 
-<!---
-Dovani/Dovani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📫 Como me encontrar
+- **LinkedIn**: [Seu Nome no LinkedIn](https://linkedin.com/in/dovanilenares)  
+- **Email**: [seu.email@exemplo.com](dovanilenares@gmail.com)  
+
+---
+
+### 🎯 Vamos colaborar?
+Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos inovadores. Se você tem uma ideia ou precisa de ajuda com desenvolvimento, entre em contato!
+
